@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AirBex
-- 👀 I’m interested in webdev
+- 👋 Hi, I’m @AirBex and I'm new at GitHub
+- 👀 I’m interested in web-/appdevelopment
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m not looking to collaborate (yet)
 
